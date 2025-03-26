@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This is my first README file.
+I'm currently learning to use github.
 <!--
 **thomaslexuan/thomaslexuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
